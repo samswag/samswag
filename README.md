@@ -11,7 +11,7 @@ I believe in diverse skill sets and people as they make products and communities
 - Playing with [Django](https://www.djangoproject.com/)
 - Scalable onboarding with the [Gnome project](https://gitlab.gnome.org/Teams/Engagement/initiatives/scalable-onboarding)
 - The [Sugar Desktop project](https://github.com/sugarlabs) got in into OSS, been giving back since 2011. 
-- Expanding [OSCA](https://github.com/oscafrica) to bring the Next Billion Creators and making the project sustainable. See the just concluded [Open Source Festival 2020](https://blog.oscafrica.org/the-chronicles-of-open-source-festival-2020-ck84qc32s04zmzns18q5x8fjp) event in Lagos.
+- Expanding [OSCA](https://github.com/oscafrica) to bring the Next Billion Creators and making the project sustainable. See the concluded [Open Source Festival 2020](https://blog.oscafrica.org/the-chronicles-of-open-source-festival-2020-ck84qc32s04zmzns18q5x8fjp) event in Lagos.
 
 ## Get in touch
 - Twitter: https://twitter.com/samson_goddy
