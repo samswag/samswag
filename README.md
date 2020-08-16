@@ -6,11 +6,12 @@ My mission in life isn't just to survive but to build something iconic. Maybe th
 
 I believe in diverse skill sets and people as they make products and communities unique. 
 
-## 🌱 I’m currently playing with: 
+## 🌱 Projects: 
 
 - Playing with [Django](https://www.djangoproject.com/)
 - Scalable onboarding with the [Gnome project](https://gitlab.gnome.org/Teams/Engagement/initiatives/scalable-onboarding)
 - The [Sugar Desktop project](https://github.com/sugarlabs) got in into OSS, been giving back since 2011. 
+- Expanding [OSCA](https://github.com/oscafrica) to bring the Next Billion Creators, making the project sustainable.
 
 ## Get in touch
 - Twitter: https://twitter.com/samson_goddy
