@@ -1,8 +1,9 @@
 # Samson Goddy -- OSS 🥑
-Hi, 👋I’m Samson, a software developer who believes in changing the world. I’m an open source advocate, primarily maintaining [Sugar Desktop](https://github.com/sugarlabs) while also serving on the board of directors with [Sugar Labs](http://sugarlabs.org/), and sustaining  [Open Source Collective](https://www.oscollective.org/) as a board member. I also co-founded  [Open Source Community Africa](https://www.oscafrica.org), a movement that promotes and educates everything open source within Africa 🌍. I’m currently consulting with the African Union, International Telecommunication Union, and UN Women to bring more women into technology. 🚀
+Hi, 👋I’m Samson, A Seasoned open source program manager and DevRel professional with over a decade of working with multicultural teams and extensive expertise in community building, advocacy, and strategic partnerships around the developer's communities. An effective leader with a proven ability to supervise and lead high-performance teams to ensure success in achieving company goals in a highly competitive business environment.
+
 
 ## ⚔️🛡Mission
-My mission in life isn't just to survive but to build something iconic. Maybe that is why I  lead things, sometimes convince people why somethings are very important. 
+My mission in life isn't just to survive but to build something iconic. That may be why I  lead things, sometimes convince people why somethings are very important. 
 
 I believe in diverse skill sets and people as they make products and communities unique. 
 
